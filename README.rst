@@ -55,10 +55,10 @@ Ok... Where?
    #requirements-file-format
 .. |Version| image:: https://badge.fury.io/py/setupext-pip.svg
    :target: https://badge.fury.io/
-.. |Downloads| image:: https://pypip.in/d/setupext-pip/badge.svg?
+.. |Downloads| image:: https://img.shields.io/pypi/dm/setupext-pip.svg
    :target: https://pypi.python.org/pypi/setupext-pip
 .. |Status| image:: https://travis-ci.org/dave-shawley/setupext-pip.svg
    :target: https://travis-ci.org/dave-shawley/setupext-pip
-.. |License| image:: https://pypip.in/license/setupext-pip/badge.svg?
+.. |License| image:: https://img.shields.io/pypi/l/setupext-pip.svg
    :target: https://setupext-pip.readthedocs.org/
 
